@@ -6,4 +6,5 @@ https://universe.roboflow.com/noriel-vlmtq/glassesdetection-lwja6/model/1?webcam
 
 ## Sample Detection
 
-![image](https://github.com/user-attachments/assets/bf1f7544-8012-44c9-b759-046d52427a45)
+![image](https://github.com/user-attachments/assets/9c9ef0eb-3b3f-4208-a23a-acc7de79157a)
+
